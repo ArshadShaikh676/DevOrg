@@ -5,3 +5,4 @@ public class ClientDetails {
     Public Date dealDate,dateofBirth;
     public boolean isActive;
 }
+//new update 
